@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
-    printf("hello, Sumant is Hero");
+    printf("Hello World");
 }
