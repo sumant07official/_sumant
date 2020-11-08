@@ -1,5 +1,7 @@
 #include<stdio.h>
-void main()
-{
-    printf("Hello World\n");
+int main()
+{	
+	float a=5.0/2;
+	printf("%d",a);
+	return a;
 }
